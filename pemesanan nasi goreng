@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T07:41:39.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.3.1" etag="HBfCrk_FtjYSt907U3Su" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T08:04:46.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="ZqzsqYOm69jOC3fwb04R" version="24.3.1" type="github">
   <diagram name="Page-1" id="ImWD4W5TtV96yr0dtDE7">
-    <mxGraphModel>
+    <mxGraphModel dx="792" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a-YasDSOYEnEFFCRbcKw-1" value="pelanggan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-YasDSOYEnEFFCRbcKw-2" value="pesanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-YasDSOYEnEFFCRbcKw-3" value="makanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-YasDSOYEnEFFCRbcKw-4" value="pembelian_makanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
